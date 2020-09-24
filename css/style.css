@@ -1,0 +1,19 @@
+#MainContainer{
+    background-image: url(../Images/background2.jpg) ;
+    background-size: cover;
+}
+#parallax{
+  background-image: url(../Images/background2.jpg) ;
+    background-size: cover;
+    height:1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+html {
+  scroll-behavior: smooth;
+
+}
+#ResultContainer{
+  height: 1000px;
+}
